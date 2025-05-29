@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:game/pages/home/home_page.dart';
 import 'package:game/styles.dart';
+import 'package:game/views/home/home_page.dart';
 
 
 void main() {
