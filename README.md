@@ -1,6 +1,8 @@
-# game
+# case-opening-wheel
 
-A new Flutter project.
+![CaseOpeningGame-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0ba97f23-e7a4-4162-9555-31de5a32931c)
+
+
 
 ## Getting Started
 
